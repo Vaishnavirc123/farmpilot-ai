@@ -1,0 +1,24 @@
+.header{
+    background: linear-gradient(135deg,#2E7D32,#43A047);
+    color:white;
+    padding:20px;
+    border-radius:18px;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+}
+
+.logo{
+    font-size:26px;
+    font-weight:bold;
+    margin-bottom:12px;
+}
+
+.welcome h2{
+    margin:0;
+    font-size:22px;
+}
+
+.welcome p{
+    margin-top:8px;
+    opacity:.9;
+    font-size:15px;
+}

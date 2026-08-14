@@ -1,0 +1,39 @@
+.farm-card{
+
+background:white;
+
+padding:20px;
+
+border-radius:20px;
+
+box-shadow:0 2px 10px rgba(0,0,0,.08);
+
+margin-bottom:18px;
+
+}
+
+.farm-card h3{
+
+color:#2E7D32;
+
+margin-bottom:15px;
+
+}
+
+.farm-row{
+
+display:flex;
+
+justify-content:space-between;
+
+padding:10px 0;
+
+border-bottom:1px solid #eee;
+
+}
+
+.farm-row:last-child{
+
+border:none;
+
+}
